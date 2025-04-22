@@ -9,6 +9,7 @@ function App() {
         <a
           href="https://www.linkedin.com/in/anna-fry-a75446198/"
           target="_blank"
+          rel="noreferrer"
         >
           Anna Fry
         </a>{" "}
@@ -16,6 +17,7 @@ function App() {
         <a
           href="https://github.com/annafry95/weather-app-react"
           target="_blank"
+          rel="noreferrer"
         >
           Github
         </a>

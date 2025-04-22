@@ -12,7 +12,13 @@ function App() {
         >
           Anna Fry
         </a>{" "}
-        and is opened-sourced on <a href="#">Github</a>
+        and is opened-sourced on{" "}
+        <a
+          href="https://github.com/annafry95/weather-app-react"
+          target="_blank"
+        >
+          Github
+        </a>
       </footer>
     </div>
   );

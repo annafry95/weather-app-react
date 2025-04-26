@@ -15,13 +15,21 @@ function App() {
           >
             Anna Fry
           </a>{" "}
-          and is opened-sourced on{" "}
+          is opened-sourced on{" "}
           <a
             href="https://github.com/annafry95/weather-app-react"
             target="_blank"
             rel="noreferrer"
           >
             Github
+          </a>{" "}
+          and hosted on{" "}
+          <a
+            href="https://weatherap-react.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
           </a>
         </footer>
       </div>

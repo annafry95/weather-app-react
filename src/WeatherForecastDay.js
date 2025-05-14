@@ -1,5 +1,5 @@
 import React from "react";
-import "./WeatherForecast.css";
+import "./WeatherForecastDay.css";
 
 export default function WeatherForecastDay(props) {
   function maxTemperature() {
